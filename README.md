@@ -7,7 +7,7 @@ Analysis of 300 purchase orders from 10 suppliers (2025) to measure delivery, qu
 ## Dashboard
 
 
-![Dashboard](dashboard.png)
+![Dashboard](Supplier_PowerBI_Dashboard_Layout.png)
 
 
 
