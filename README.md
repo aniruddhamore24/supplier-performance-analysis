@@ -12,7 +12,7 @@ Analysis of 300 purchase orders from 10 suppliers (2025) to measure delivery, qu
 
 
 ## Tools
-- Excel: data cleaning, pivot tables, supplier scoring
+- Excel: data cleaning, pivot tables, supplier scoring, KPI dashboard
 - SQL: spend, on-time delivery and rejection analysis
 - Power BI: dashboard layout design
 
